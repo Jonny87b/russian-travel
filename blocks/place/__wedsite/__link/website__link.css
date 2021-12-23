@@ -1,0 +1,13 @@
+.website__link {
+  max-width: 456px;
+  max-height: 22px;
+  font-size: 18px;
+  line-height: 22px;
+  color: #ffff;
+  margin: 0;
+}
+@media screen and (max-width: 350px) {
+  .website__link {
+    margin: 0 0 0px 16px;
+  }
+}

@@ -1,0 +1,20 @@
+.photo-grid__item {
+  margin: 0;
+  padding: 0;
+  /* height: 100%; */
+  object-fit: contain;
+}
+/* @media screen and (max-width: 1184px) {
+  .photo-grid__item {
+    max-width: 100%;
+    max-height: 100%;
+    object-fit: contain;
+  }
+}
+@media screen and (max-width: 1010px) {
+  .photo-grid__item {
+    max-width: 100%;
+    max-height: 100%;
+    object-fit: contain;
+  }
+} */
