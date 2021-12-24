@@ -21,7 +21,7 @@
     padding: 48px 0 0;
   }
 }
-@media screen and (max-width: 767px) {
+@media screen and (max-width: 425px) {
   .lead {
     max-width: 320px;
     max-height: 406px;
