@@ -8,13 +8,13 @@
   color: #ffff;
   list-style-type: none;
 }
-@media screen and (max-width: 1279px) {
+@media screen and (max-width: 1026px) {
   .places {
     max-width: 928px;
     padding: 92px 48px 0 48px;
   }
 }
-@media screen and (max-width: 940px) {
+@media screen and (max-width: 800px) {
   .places {
     max-width: 720px;
     padding: 88px 24px 0 24px;

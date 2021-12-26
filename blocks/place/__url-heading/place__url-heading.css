@@ -8,7 +8,7 @@
   color: #ffff;
   margin: 0 0 12px;
 }
-@media screen and (max-width: 1010px) {
+@media screen and (max-width: 800px) {
   .place__url-heading {
     line-height: 12px;
   }

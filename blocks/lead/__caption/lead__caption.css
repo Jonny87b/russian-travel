@@ -7,7 +7,7 @@
   font-weight: 400;
   margin: 8px 0 0;
 }
-@media screen and (max-width: 1023px) {
+@media screen and (max-width: 800px) {
   .lead__caption {
     margin: 8px 0 0 24px;
   }

@@ -19,6 +19,20 @@
     padding: 28px 24px 0;
   }
 }
+@media screen and (max-width: 767px) {
+  .header {
+    min-width: 633px;
+    min-height: 42px;
+    padding: 16px 16px 0;
+  }
+}
+@media screen and (max-width: 664px) {
+  .header {
+    min-width: 438px;
+    min-height: 42px;
+    padding: 16px 16px 0;
+  }
+}
 @media screen and (max-width: 425px) {
   .header {
     min-width: 288px;
