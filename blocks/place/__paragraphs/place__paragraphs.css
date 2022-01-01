@@ -4,9 +4,9 @@
   flex-direction: column;
   align-items: flex-start;
 }
-@media screen and (max-width: 425px) {
+@media screen and (max-width: 510px) {
   .place__paragraphs {
-    max-width: 286px;
+    max-width: 478px;
     margin: 0 16px 0 16px;
   }
 }
