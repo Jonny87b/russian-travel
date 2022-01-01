@@ -4,7 +4,7 @@
   padding: 92px 48px 24px;
   min-width: 1184px;
   min-height: 18px;
-  color: #ffff;
+  color: #fff;
 }
 @media screen and (max-width: 1279px) {
   .footer {
@@ -20,13 +20,11 @@
 @media screen and (max-width: 767px) {
   .footer {
     min-width: 617px;
-    padding: 88px 24px 24px;
   }
 }
 @media screen and (max-width: 664px) {
   .footer {
     min-width: 422px;
-    padding: 88px 24px 24px;
   }
 }
 @media screen and (max-width: 470px) {

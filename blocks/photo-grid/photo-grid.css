@@ -23,7 +23,7 @@
     padding: 88px 24px 0 24px;
   }
 }
-@media screen and (max-width: 425px) {
+@media screen and (max-width: 322px) {
   .photo-grid {
     max-width: 288px;
     /* max-height: 2724px; */

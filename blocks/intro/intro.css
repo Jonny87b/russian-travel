@@ -19,7 +19,7 @@
     padding: 88px 24px 0 24px;
   }
 }
-@media screen and (max-width: 425px) {
+@media screen and (max-width: 330px) {
   .intro {
     max-width: 288px;
     /* max-height: 754px; */

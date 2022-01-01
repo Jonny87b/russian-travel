@@ -3,7 +3,7 @@
   flex-direction: column;
   max-width: 984px;
   padding: 56px 148px 0;
-  color: #ffff;
+  color: #fff;
 }
 
 @media screen and (max-width: 1099px) {
