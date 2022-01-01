@@ -2,32 +2,22 @@
   display: flex;
   flex-direction: column;
   max-width: 984px;
-  padding: 56px 148px 0;
+  padding: 0;
+  margin: 56px 148px 0;
   color: #fff;
 }
-
-@media screen and (max-width: 1099px) {
+@media screen and (max-width: 1025px) {
   .lead {
     max-width: 928px;
-    padding: 48px 48px 0;
+    margin: 48px 48px 0;
   }
 }
-@media screen and (max-width: 800px) {
+@media screen and (max-width: 775px) {
   .lead {
     max-width: 768px;
-    padding: 48px 0 0;
+    margin: 48px 0 0;
   }
 }
-/* @media screen and (max-width: 666px) {
-  .lead {
-    max-width: 665px;
-  }
-} */
-/* @media screen and (max-width: 664px) {
-  .lead {
-    max-width: 470px;
-  }
-} */
 @media screen and (max-width: 330px) {
   .lead {
     max-width: 320px;
