@@ -2,7 +2,7 @@
   max-width: 1184px;
   /* max-height: 671px; */
   padding: 0;
-  padding: 94px 48px 0 48px;
+  padding: 92px 48px 0 48px;
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(284px, 1fr));
   grid-template-rows: repeat(auto-fit, minmax(213px, 1fr));
@@ -20,7 +20,7 @@
     max-width: 720px;
     /* max-height: 1664px; */
     gap: 16px;
-    padding: 94px 24px 0 24px;
+    padding: 88px 24px 0 24px;
   }
 }
 @media screen and (max-width: 425px) {

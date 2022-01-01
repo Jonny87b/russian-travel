@@ -9,31 +9,27 @@
 @media screen and (max-width: 1279px) {
   .footer {
     min-width: 928px;
-    min-height: 18px;
   }
 }
 @media screen and (max-width: 1023px) {
   .footer {
     min-width: 720px;
-    min-height: 18px;
     padding: 88px 24px 24px;
   }
 }
 @media screen and (max-width: 767px) {
   .footer {
     min-width: 617px;
-    min-height: 18px;
     padding: 88px 24px 24px;
   }
 }
 @media screen and (max-width: 664px) {
   .footer {
     min-width: 422px;
-    min-height: 18px;
     padding: 88px 24px 24px;
   }
 }
-@media screen and (max-width: 425px) {
+@media screen and (max-width: 470px) {
   .footer {
     min-width: 186px;
     min-height: 310px;
