@@ -3,7 +3,6 @@
   justify-content: space-between;
   /* align-items: center; */
   max-width: 1184px;
-  max-height: 52px;
   padding: 28px 48px 0;
   color: #fff;
 }
@@ -16,7 +15,6 @@
 }
 @media screen and (max-width: 767px) {
   .header {
-    max-height: 42px;
     padding: 16px 16px 0;
   }
 }
