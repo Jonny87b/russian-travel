@@ -2,35 +2,35 @@
   display: flex;
   justify-content: space-between;
   padding: 92px 48px 24px;
-  min-width: 1184px;
-  min-height: 18px;
+  max-width: 1184px;
+  max-height: 18px;
   color: #fff;
 }
 @media screen and (max-width: 1279px) {
   .footer {
-    min-width: 928px;
+    max-width: 928px;
   }
 }
 @media screen and (max-width: 1023px) {
   .footer {
-    min-width: 720px;
+    max-width: 720px;
     padding: 88px 24px 24px;
   }
 }
 @media screen and (max-width: 767px) {
   .footer {
-    min-width: 617px;
+    max-width: 617px;
   }
 }
 @media screen and (max-width: 664px) {
   .footer {
-    min-width: 422px;
+    max-width: 422px;
   }
 }
 @media screen and (max-width: 470px) {
   .footer {
-    min-width: 186px;
-    min-height: 310px;
+    max-width: 186px;
+    max-height: 310px;
     padding: 64px 118px 24px 16px;
     flex-direction: column;
   }
