@@ -3,7 +3,6 @@
   justify-content: space-between;
   padding: 92px 48px 24px;
   max-width: 1184px;
-  min-height: 18px;
   color: #fff;
 }
 @media screen and (max-width: 1023px) {
