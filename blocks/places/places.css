@@ -8,7 +8,7 @@
   color: #fff;
   list-style-type: none;
 }
-@media screen and (max-width: 1026px) {
+@media screen and (max-width: 1090px) {
   .places {
     max-width: 928px;
     padding: 92px 48px 0 48px;
